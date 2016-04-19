@@ -22,7 +22,7 @@ PATH
   specs:
     activeadmin-globalize (1.0.0)
       activeadmin
-      globalize (~> 4.0.0)
+      globalize (~> 5.0.0)
 
 GEM
   remote: https://rubygems.org/
